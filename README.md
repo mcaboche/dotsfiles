@@ -1,6 +1,6 @@
 # Dotsfiles
 
-![preview](screenshot.jpg)
+![preview](https://raw.githubusercontent.com/mcaboche/dotsfiles/master/screenshot.png)
 
 - i3-gapps
 - polybar
